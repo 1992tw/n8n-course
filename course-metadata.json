@@ -1,0 +1,36 @@
+{
+  "id": "689baa4a56e5dce178cd91ff",
+  "title": "N8N course",
+  "description": "desc",
+  "learningObjectives": [
+    "Understand the fundamentals of N8N",
+    "Learn how to design and implement workflows in N8N",
+    "Master conditional controls and error handling in N8N",
+    "Understand how to integrate with external APIs and services in N8N",
+    "Learn best practices for N8N workflow design and maintenance"
+  ],
+  "finalProjectDetails": {
+    "overview": "Design and implement a complete workflow in N8N that integrates with an external API",
+    "planningResources": [
+      "N8N Workflow Design Guide",
+      "N8N API Integration Documentation",
+      "N8N Error Handling Guidelines",
+      "N8N Best Practices document"
+    ],
+    "submissionInstructions": "Submit a written report outlining the use case, workflow design, and implementation details, along with the exported N8N workflow file.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/1992tw/n8n-course",
+  "createdAt": "2025-08-12T20:55:38.192Z",
+  "updatedAt": "2025-08-12T20:55:38.192Z",
+  "lessonCount": 5
+}
